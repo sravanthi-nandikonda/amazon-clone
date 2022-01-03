@@ -13,3 +13,7 @@
 
 - React
 - Css
+ 
+ ### The React App is deployed using firebase.
+ https://clone-9a31e.web.app/
+
