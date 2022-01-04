@@ -2,6 +2,7 @@
  - Amazon clone is a clone page of Amazon 
  - Has an authentication page
  - Data Beign dispalyed is dummy
+ - user can proceed to checkout only if signed in
 
 ## Features
    - User can create a new account and sign in
